@@ -160,7 +160,7 @@
 		<dependency>
 			<groupId>org.mule</groupId>
 			<artifactId>mule-core</artifactId>
-			<version>3.8.4</version>
+			<version>${mule.version}</version>
 		</dependency>
 
 		<dependency>
